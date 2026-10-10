@@ -115,11 +115,9 @@ This project follows a structured workflow to transform customer transaction dat
 ## 🔍 Key Insights
 
 - **Total Customers:** 50
-- **Best-Performing Product:** Bookshelf
-- **Top Revenue-Generating Customer:** Maria Garcia
-- **Leading Payment Preference:** Cash (42.86%)
-- Premium customers represent 50% of the displayed customer segment distribution.
-
+- **Best-Performing Product:** Laptop
+- **Top Revenue-Generating Customer:** Mark Carter
+- **Leading Payment Preference:** Cash 
 *Insights are based on the supplied dashboard view and may change with filters.*
 
 ---
