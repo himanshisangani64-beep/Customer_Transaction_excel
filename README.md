@@ -117,7 +117,9 @@ This project follows a structured workflow to transform customer transaction dat
 - **Total Customers:** 50
 - **Best-Performing Product:** Laptop
 - **Top Revenue-Generating Customer:** Mark Carter
-- **Leading Payment Preference:** Cash 
+- **Leading Payment Preference:** Cash
+
+  
 *Insights are based on the supplied dashboard view and may change with filters.*
 
 ---
