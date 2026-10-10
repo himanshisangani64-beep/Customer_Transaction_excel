@@ -108,7 +108,7 @@ This project follows a structured workflow to transform customer transaction dat
 
 ## 📊 Dashboard Preview
 
-[ View Dashboard](Image/Dashboard_Image.png)
+[ View Dashboard](Image/Dshboard_Image.png)
 
 ---
 
